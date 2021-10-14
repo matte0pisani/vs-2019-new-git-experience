@@ -6,7 +6,7 @@ namespace vs_2019_new_git_experience
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello uallera modified code!");
+            Console.WriteLine("Hello first modified code!");
         }
     }
 }
