@@ -6,7 +6,7 @@ namespace vs_2019_new_git_experience
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("uallera uallera uallera");
+            Console.WriteLine("seconda linea per merge");
         }
     }
 }
